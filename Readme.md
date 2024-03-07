@@ -20,5 +20,6 @@ Explore all the rooms, discover keys, and successfully escape the mysterious hou
 
 
 ### Authors
-This game was developed by Beata, Karina, Pierre and Jules, starting from [sample code](https://github.com/Beata2307/Escape_Room_quest/blob/main/sample-code.ipynb)).
+This game was developed by Beata, Karina, Pierre and Jules, starting from [sample code](https://github.com/Beata2307/Escape_Room_quest/blob/main/sample-code.ipynb). 
+
 Information about the added features and implemented improvements can be found in the [presentation](https://github.com/Beata2307/Escape_Room_quest/blob/main/Escape_Game_Presentation.pdf).
