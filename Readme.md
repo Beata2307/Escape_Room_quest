@@ -2,7 +2,7 @@
 
 This is Escape Room Game! You wake up on a couch and find yourself in a strange house with no windows which you have never been to before. You don't remember why you are here and what had happened before. You feel some unknown danger is approaching and you must get out of the house, NOW! Your task is to find hidden keys to unlock closed doors and navigate through various rooms to find your way to the exit located outside. Solve puzzles to discover key locations and advance through the game.
 
-### How to Play:
+### How to Play
 
 - Follow on-screen instructions.
 
@@ -19,4 +19,5 @@ This is Escape Room Game! You wake up on a couch and find yourself in a strange 
 Explore all the rooms, discover keys, and successfully escape the mysterious house!
 
 
-**Authors: CODEBREAKERS (Tema of 4)**
+### Authors
+This game was developed by Beata, Karina, Pierre and Jules (starting from [sample code](https://github.com/Beata2307/Escape_Room_quest/blob/main/sample-code.ipynb)).
